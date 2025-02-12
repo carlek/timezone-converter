@@ -11,8 +11,9 @@ This is a simple React app that allows you to convert a local time from one time
 ## To run the app:
 
 1.  Install dependencies: `npm install`
-2.  Start the development server: `npm start`
-3.  See "Dockerized" section below to use Docker.
+2.  Build the app: `npm run build`
+3.  Start the development server: `npm run rtart`
+4.  See "Dockerized" section below to use Docker.
 
 ## Developer Notes
 
